@@ -1,5 +1,7 @@
 # MoviePilot 插件合集
 
+[![bilibili](https://img.shields.io/badge/Bilibili-主页-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com/2250922)
+
 个人维护的 [MoviePilot](https://github.com/jxxghp/MoviePilot) 插件仓库，同时可直接作为**插件市场源**使用。
 
 ## 插件列表
